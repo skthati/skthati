@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Sandeep Thati</h1>
+<h1 align="center">I'm Sandeep Thati</h1>
 <h3 align="center">I have a passion for coding and ❤️ to develop elegant and efficient applications. 
 </h3>
 

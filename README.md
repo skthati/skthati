@@ -67,10 +67,10 @@ Here are some ideas to get you started:
 <hr>
 
 # Top Projects
-- 📄 [Python Algorithms](https://github.com/skthati/Python-Algorithms)
-- 📄 [Turtle-crossing](https://github.com/skthati/turtle-crossing)
-- 📄 [Pong Arcade Game](https://github.com/skthati/Pong_Arcade_Game)
-- 📄 [Snake Game](https://github.com/skthati/Snake_game_python_turtle)
-- 📄 [Django Project from Harvard CS50 Course](https://github.com/skthati/Harvard_CS50_Django)
+- 🚀 [Python Algorithms](https://github.com/skthati/Python-Algorithms)
+- 🏁 [Turtle-crossing](https://github.com/skthati/turtle-crossing)
+- 🚧 [Pong Arcade Game](https://github.com/skthati/Pong_Arcade_Game)
+- 🔰 [Snake Game](https://github.com/skthati/Snake_game_python_turtle)
+- 📍 [Django Project from Harvard CS50 Course](https://github.com/skthati/Harvard_CS50_Django)
 
 

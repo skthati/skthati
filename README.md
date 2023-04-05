@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> 
+<!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>  -->
   
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -63,4 +63,14 @@ Here are some ideas to get you started:
 
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skthati&show_icons=true&locale=en&layout=compact" alt="skthati" /></p>
+
+<hr>
+
+# Top Projects
+- 📄 [Python Algorithms]([https://thati.org/](https://github.com/skthati/Python-Algorithms)
+- 📄 [Turtle-crossing](https://github.com/skthati/turtle-crossing)
+- 📄 [Pong Arcade Game](https://github.com/skthati/Pong_Arcade_Game)
+- 📄 [Snake Game](https://github.com/skthati/Snake_game_python_turtle)
+- 📄 [Django Project from Harvard CS50 Course](https://github.com/skthati/Harvard_CS50_Django)
+
 

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skthati&label=Profile%20views&color=0e75b6&style=flat" alt="skthati" /> </p>
-![image](https://www.codewars.com/users/sthati/badges/small)
+![Codewars](https://www.codewars.com/users/sthati/badges/small)
 <!-- ![image](https://www.codewars.com/users/uyncis/badges/large)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) -->
 

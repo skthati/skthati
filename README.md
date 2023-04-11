@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">I'm Sandeep Thati</h1>
-<h3 align="center">I'm passionate about coding elegant applications that make a meaningful impact in people's lives. </h3>
+<h3 align="center">I'm passionate about coding and  ❤️ to build elegant applications which can impact in people's lives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skthati&label=Profile%20views&color=0e75b6&style=flat" alt="skthati" /> </p>
 <!-- ![Codewars](https://www.codewars.com/users/sthati/badges/small) -->

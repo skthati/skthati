@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Sandeep Thati</h1>
 <h3 align="center">I'm passionate about coding and  ❤️ to build elegant applications which can impact in people's lives.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skthati&label=Profile%20views&color=0e75b6&style=flat" alt="skthati" /> </p>
+<h1> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skthati&label=Profile%20views&color=0e75b6&style=flat" alt="skthati" /> 
 <!-- ![Codewars](https://www.codewars.com/users/sthati/badges/small) -->
 <!-- ![image](https://www.codewars.com/users/uyncis/badges/large)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) -->
+<img align="right" src="https://www.codewars.com/users/sthati/badges/small" alt="skthati" /> </p>
 
+<br/>
 - 💼 I'm based in Auckland, NZ.
 
 - 🌱 I’m currently learning **Python, Git, Mysql**

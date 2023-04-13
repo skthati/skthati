@@ -79,3 +79,4 @@ Here are some ideas to get you started:
 - 📍 [Django Project from Harvard CS50 Course](https://github.com/skthati/Harvard_CS50_Django)
 
 
+<hr>

@@ -81,3 +81,9 @@ Here are some ideas to get you started:
 
 
 <hr>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skthati&show_icons=true&locale=en&layout=compact" alt="skthati" /></p>
+
+
+<hr>
+
+![Alt text]([turtle_race_avatar.gif](https://raw.githubusercontent.com/skthati/turtle/main/turtle_race.gif))

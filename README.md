@@ -91,5 +91,11 @@ Here are some ideas to get you started:
 |---------|---------|
 | <img src="https://github.com/skthati/Pong_Arcade_Game/raw/main/images/working_pong_game.gif" alt="pong_game.gif" width="300" height="300"> | <img src="https://github.com/skthati/turtle-crossing/raw/main/images/ask_player%20name.gif" alt="pong_game.gif" width="300" height="300"> |
 
+<p float="left">
+    <img src="https://github.com/skthati/Pong_Arcade_Game/raw/main/images/working_pong_game.gif" alt="Pong Game" style="width: 400px; height: 400px;">
+    <img src="https://github.com/skthati/turtle-crossing/raw/main/images/ask_player%20name.gif" alt="Turtle Crossing" style="width: 400px; height: 400px;">
+</p>   
+
+
 
 

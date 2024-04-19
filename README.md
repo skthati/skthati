@@ -87,8 +87,54 @@ Here are some ideas to get you started:
 <hr>
 
 <p float="left">
-    <img src="https://github.com/skthati/Pong_Arcade_Game/raw/main/images/working_pong_game.gif" alt="Pong Game" style="width: 400px; height: 400px;">
-    <img src="https://github.com/skthati/turtle-crossing/raw/main/images/ask_player%20name.gif" alt="Turtle Crossing" style="width: 400px; height: 400px;">
+    <img src="https://github.com/skthati/Pong_Arcade_Game/raw/main/images/working_pong_game.gif" alt="Pong Game" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/turtle-crossing/raw/main/images/ask_player%20name.gif" alt="Turtle Crossing" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/Guess-the-state/blob/main/guess.gif" alt="Turtle Crossing" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/Snake_game_python_turtle/blob/main/images/working_snake_game.gif" alt="Turtle Crossing" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/turtle/blob/main/move_turtle_with_keys.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/python_tkinter/blob/main/Calculator/miles_to_km.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/python_tkinter/blob/main/password-manager/password.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/python_tkinter/blob/main/pomodoro/pomodoro.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/python_tkinter/blob/main/flash-cards/flash_cards.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/Python-API/blob/main/kanye/kanye-quotes.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/Javascript/blob/main/random-number-generator/random-number.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/Javascript/blob/main/bmi-calculator/bmi_calc.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/Python-API/blob/main/dog-facts/dog-facts.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/Javascript/blob/main/dog_human_age_calculator/dog-age.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/Javascript/blob/main/count-characters/alert_char_limit.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/Flask-Quiz/blob/main/quiz_gif.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    
+    
 </p>   
 
 

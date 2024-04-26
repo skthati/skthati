@@ -136,6 +136,10 @@ Here are some ideas to get you started:
     &nbsp
     &nbsp
     <img src="https://github.com/skthati/Javascript/blob/main/leap-year/leap-year.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    &nbsp
+    &nbsp
+    <img src="https://github.com/skthati/Javascript/blob/main/roll-dice/dice-roll.gif" alt="move turtle" style="width: 350px; height: 350px;">
+    
     
 </p>   
 
